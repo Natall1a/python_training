@@ -1,2 +1,2 @@
-# python_training_11
+# python_training
 
